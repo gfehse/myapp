@@ -33,6 +33,13 @@
             <version>${spring-framework.version}</version>
         </dependency>
 
+        <!-- Spring MVC support -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+            <version>${spring-framework.version}</version>
+        </dependency>
+
     </dependencies>
 
 
